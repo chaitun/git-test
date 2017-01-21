@@ -1,17 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is 04A8-1456
-
- Directory of C:\Users\chaitu\Desktop\html css
-
-01/21/2017  01:48 PM    <DIR>          .
-01/21/2017  01:48 PM    <DIR>          ..
-12/02/2016  03:27 AM               876 form.html
-12/02/2016  09:50 PM               500 html5.html
-12/14/2016  06:21 PM    <DIR>          images
-10/10/2016  04:17 PM               184 New Text Document.txt
-12/02/2016  01:40 AM             1,721 pro.html
-12/15/2016  09:10 PM             1,178 project.html
-01/21/2017  01:48 PM                 0 t.txt
-12/01/2016  10:31 PM             1,521 test.html
-               7 File(s)          5,980 bytes
-               3 Dir(s)  220,844,826,624 bytes free
+jhfjhfjhfdjytduytdytcjhfuytrftycjhggfddytd
+hfcjhgfcjhfjhgfvkjhgvkhgvkjhg
